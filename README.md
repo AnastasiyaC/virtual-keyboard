@@ -1,6 +1,6 @@
 # Virtual Keyboard
 
-[Virtual Keyboard DEMO](https://anastasiyac.github.io/video-speed-controller/)
+[Virtual Keyboard DEMO](https://anastasiyac.github.io/virtual-keyboard/)
 
 
 ### Description
